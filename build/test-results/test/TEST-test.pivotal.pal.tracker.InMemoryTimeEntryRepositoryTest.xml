@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.pivotal.pal.tracker.InMemoryTimeEntryRepositoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-01-09T10:11:09" hostname="pal8-OptiPlex-7050" time="0.003">
+  <properties/>
+  <testcase name="create" classname="test.pivotal.pal.tracker.InMemoryTimeEntryRepositoryTest" time="0.001"/>
+  <testcase name="delete" classname="test.pivotal.pal.tracker.InMemoryTimeEntryRepositoryTest" time="0.0"/>
+  <testcase name="update" classname="test.pivotal.pal.tracker.InMemoryTimeEntryRepositoryTest" time="0.0"/>
+  <testcase name="find" classname="test.pivotal.pal.tracker.InMemoryTimeEntryRepositoryTest" time="0.0"/>
+  <testcase name="list" classname="test.pivotal.pal.tracker.InMemoryTimeEntryRepositoryTest" time="0.001"/>
+  <system-out><![CDATA[Found entry for ID:1
+Updated as entry:{"id":1,"projectId":321,"userId":654,"hours":5}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
